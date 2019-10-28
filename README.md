@@ -13,4 +13,4 @@ It's a great way to think about ourselves and how we work in a team. It's also a
 
 [Example user manuals from FAC17](https://github.com/fac-17/user-manuals)
 
-[Use this issue template to get started!](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/user-manuals/ISSUE_TEMPLATE.md)
+[Copy this issue template to get started!](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/user-manuals/ISSUE_TEMPLATE.md)
