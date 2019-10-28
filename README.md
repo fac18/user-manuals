@@ -12,3 +12,5 @@ We will make time regularly to go back and edit this info, so don't worry if you
 It's a great way to think about ourselves and how we work in a team. It's also a great way to find out about our team-mates before working together so we know how to get the best out of each other and work well as a team 👭👬
 
 [Example user manuals from FAC17](https://github.com/fac-17/user-manuals)
+
+[Use this issue template to get started!](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/user-manuals/ISSUE_TEMPLATE.md)
